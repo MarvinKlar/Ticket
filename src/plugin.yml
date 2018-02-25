@@ -1,0 +1,7 @@
+main: mr.minecraft15.ticket.Main
+name: Ticket
+version: 1.0
+author: Mr_Minecraft15
+commands:
+ ticket:
+  aliases: [ti]
